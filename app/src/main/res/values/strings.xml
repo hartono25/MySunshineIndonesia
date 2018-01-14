@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Sunshine Indonesia</string>
+    <string name="main_today">Sunday</string>
+    <string name="main_weather_desc">Moderate Rain</string>
+    <string name="main_weather_temp">17\u00b0</string>
+    <string name="degree">\u00b0</string>
+    <string name="hari_minggu">Minggu</string>
+    <string name="cuaca_berawan">Cuaca Berawan</string>
 </resources>
