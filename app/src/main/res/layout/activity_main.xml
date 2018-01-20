@@ -58,7 +58,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:text="@string/main_weather_temp"
-                android:textSize="60sp"
+                android:textSize="48sp"
                 android:textColor="@android:color/white"/>
         </LinearLayout>
     </LinearLayout>

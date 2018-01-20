@@ -3,7 +3,8 @@
     <string name="main_today">Sunday</string>
     <string name="main_weather_desc">Moderate Rain</string>
     <string name="main_weather_temp">17\u00b0</string>
-    <string name="degree">\u00b0</string>
+    <string name="degree"> \u00b0C</string>
     <string name="hari_minggu">Minggu</string>
     <string name="cuaca_berawan">Cuaca Berawan</string>
+    <string name="api_key_weather">68ed9204f351b4f5503b31fe7f972a2d</string>
 </resources>
